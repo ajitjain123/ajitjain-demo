@@ -1,6 +1,6 @@
 # ajitjain-demo
 This is my first Git Repository
 <Br/>
-Author - Ajit jain
+Author - Ajit jai
 
 
